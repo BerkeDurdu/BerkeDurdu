@@ -42,8 +42,3 @@
 </p>
 
 <br>
-
-### ⚡ GitHub Streak
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BerkeDurdu&theme=tokyonight&hide_border=true" alt="BerkeDurdu Streak" />
-</p>
