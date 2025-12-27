@@ -46,9 +46,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berke111&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Berke111 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BerkeDurdu&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="BerkeDurdu Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berke111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkeDurdu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
